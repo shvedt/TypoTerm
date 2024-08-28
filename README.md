@@ -18,3 +18,6 @@ Typoterm is a typing test practice tool designed for those of us who live and th
 
 ```sh
 typoterm wordcount -> e.g. typoterm 20
+```
+
+Full changelog: [Changelog](https://github.com/shvedt/TypoTerm.git/CHANGELOG.md).
