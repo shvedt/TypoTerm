@@ -11,7 +11,7 @@ Typoterm is a typing test practice tool designed for those of us who live and th
 - **Simple and Lightweight:** A minimalist tool that runs smoothly in any terminal environment.
 
 ### **Usage:**
-1. **Download** Typoterm from the [Releases](https://github.com/shvedt/TypoTerm.git/releases) section.
+1. **Download** Typoterm from the [Releases](https://github.com/shvedt/TypoTerm/releases) section.
 2. **Extract** the ZIP file.
 3. **Run** the `setup.sh` script to set up Typoterm on your system.
 4. **Start Typing!** You can run the program with or without specifying a word count as a command-line argument.
